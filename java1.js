@@ -1,4 +1,4 @@
-//width and height of browser
+  //width and height of browser
   $(window).resize(function(){
       console.log( 'Browser Width: ' + $(window).width() );
   });
