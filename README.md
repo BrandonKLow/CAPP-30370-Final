@@ -6,8 +6,6 @@ Brandon Low's Website
 The purpose of this website is to provide a website for the bass section of the Notre Dame marching band. There is some description about marching band and the bass section on the home page. This will inform incoming freshman what it would be like to be part of the bass section in the marching band. On the members page, there are pictures of all the current members of 2013-2014 marching band season. The songs page contains all the lyrics to the songs the basses sing on game dame and the incoming freshmen are required to memorize all of the songs. Freshmen in the past had a hard time finding the lyrics, so this website will make it easier for them to find the songs they need to memorize.
 
 ### Include at least two breakpoints*
-Layout should visibly change between the breakpoints
-
 There are break points for the he tablet (700px) and desktop (1000px) sizes. In the members page there is visibly change where the images change from 4 columns to 2 rows when going from desktop to tablet size. 
 
 ### Include at least one page with a three-up or more column layout when viewed at desktop size*
