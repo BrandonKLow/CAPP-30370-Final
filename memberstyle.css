@@ -2,10 +2,10 @@
 @viewport {width:device-width; zoom:1;}
 * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
 
-  body {margin:1em;}
-  img {max-width:100%;
-       margin:0.5em;
+  body {margin:1em; text-align:center;}
+  img.center {max-width:100%;
        padding:0.5em;
+       margin:0 auto;
       }
 
   nav ul {margin:0; padding:0; list-style:none; text-align:center;}
